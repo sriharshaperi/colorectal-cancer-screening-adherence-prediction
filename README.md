@@ -54,7 +54,7 @@ To run this project locally, follow these steps:
 
 ### Clone the repository:
 
-git clone https://github.com/your-username/colorectal-cancer-prediction.git
+git clone https://github.com/sriharshaperi/colorectal-cancer-screening-adherence-prediction.git
 
 ### Navigate to the project directory:
 
